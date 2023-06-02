@@ -9,6 +9,6 @@ Files and Directories
 - illumina: Scripts for calculating the abundance scores
 - illumina_degron: Scripts for calculating the degron TSI scores
 
-Pacbio and illumina sequencing reads for abundance scores are available at https://erda.ku.dk/archives/XXXX/published-archive.html
+Pacbio and illumina sequencing reads for abundance scores are available at https://doi.org/10.17894/ucph.ef2e30c5-d262-4713-86e8-a3964b5dd6c7 
 
 Sequencing reads for degron TSI scores are available at https://erda.ku.dk/archives/XXXX/published-archive.html
