@@ -1,5 +1,5 @@
 # _2022_Clausen_parkin_MAVE
-Scripts and output from "A mutational atlas for Parkin" by Lene Clausen, Vasileios Voutsinos, Matteo Cagiada, Kristoffer E. Johansson, Martin Grønbæk-Thygesen, Snehal Nariya, Vibe H. Østergaard, Amelie Stein, Douglas M. Fowler, Kresten Lindorff-Larsen and Rasmus Hartmann-Petersen.
+Scripts and output from "A mutational atlas for Parkin proteostasis" by Lene Clausen, Vasileios Voutsinos, Matteo Cagiada, Kristoffer E. Johansson, Martin Grønbæk-Thygesen, Snehal Nariya, Rachel L. Powell, Magnus K. N. Have, Vibe H. Østergaard, Amelie Stein, Douglas M. Fowler, Kresten Lindorff-Larsen and Rasmus Hartmann-Petersen.
 
 Files and Directories
 
