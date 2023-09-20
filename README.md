@@ -5,7 +5,7 @@ Files and Directories
 
 - abundance.csv: Abundance scores
 - tile_stability.csv: Degron TSI scores for PRKN tiles
-- plots.ipynb: Jupyter notebook with plots based on the article supplementary CSV file
+- PARKIN_SI.ipynb: Jupyter notebook with plots based on the article supplementary CSV file
 - pacbio: Scropts for processing long CCS reads into a barcode map 
 - illumina: Scripts for calculating the abundance scores
 - illumina_degron: Scripts for calculating the degron TSI scores
